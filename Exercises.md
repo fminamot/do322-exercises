@@ -2,5 +2,5 @@
 
 ## 教室環境のリージョン
 ```
-nexus-registry-int.apps.tools-apac150.prod.ole.redhat.com
+nexus-registry-int.apps.tools-na150.prod.ole.redhat.com
 ```
