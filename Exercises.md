@@ -1,5 +1,14 @@
 # DO322 Exercises
 
+## EPub readerのインストール
+```
+flatpak install com.github.johnfactotum.Foliate
+```
+### Foliateの設定
+- Font&Layout Settings
+- Layout > Page > Maximum Number of Columns を 1 に設定
+- Scrolled Modeにチェック
+
 ## 教室環境のリージョン
 ```
 nexus-registry-int.apps.tools-na150.prod.ole.redhat.com
