@@ -42,5 +42,7 @@ label Install RHCOS 4.6.1 Worker Node
 ```
 ## pxelinux.cfgのソリューション
 ```
+cd /tmp
 wget -r http://classroom.example.com/materials/solutions/pxelinux.cfg/
+diff -r /var/lib/tftpboot/pxelinux.cfg/ classroom.example.com/materials/solutions/pxelinux.cfg/
 ```
